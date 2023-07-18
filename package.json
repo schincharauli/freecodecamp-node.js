@@ -1,10 +1,12 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Salome Tchintcharauli",
+	"description": "This project is only for educational purposes.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
-	"author": "Salome Tchintcharauli",
+	
 	"scripts": {
 		"start": "node server.js"
 	},
