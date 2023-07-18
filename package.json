@@ -4,6 +4,7 @@
 	"description": "This project is only for educational purposes.",
 	"keywords": ["freecodecamp", "codding", "challenge"],
 	"license": "ISC",
+	"version": "1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
