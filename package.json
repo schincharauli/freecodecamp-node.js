@@ -3,6 +3,7 @@
 	"author": "Salome Tchintcharauli",
 	"description": "This project is only for educational purposes.",
 	"keywords": ["freecodecamp", "codding", "challenge"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -15,6 +16,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"license": "MIT"
+
 	
 }
